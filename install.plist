@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>ftp://192.168.1.200/arvin/install.ipa</string>
+					<string>http://192.168.9.137:8080/arvin/install.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>ftp://192.168.1.200/arvin/icon.png</string>
+					<string>http://192.168.9.137:8080/arvin/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>ftp://192.168.1.200/arvin/icon.png</string>
+					<string>http://192.168.9.137:8080/arvin/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
