@@ -14,7 +14,14 @@
 					<string>http://192.168.9.120:9897/</string>
 				</dict>
 			</array>
-			
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>GY.dw.dat</string>
+				<key>bundle-version</key>
+				<string>1.0.7</string>
+				
+			</dict>
 		</dict>
 	</array>
 </dict>
