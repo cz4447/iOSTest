@@ -20,6 +20,8 @@
 				<string>GY.dw.dat</string>
 				<key>bundle-version</key>
 				<string>1.0.7</string>
+				<key>kind</key>
+				<string>software</string>
 				
 			</dict>
 		</dict>
