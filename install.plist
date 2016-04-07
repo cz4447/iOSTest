@@ -22,6 +22,8 @@
 				<string>1.0.7</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>title</key>
+				<string></string>
 			</dict>
 		</dict>
 	</array>
